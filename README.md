@@ -3,6 +3,7 @@
 Aria collects only the information required to provide music features.
 ## Discord Information
 Last Updated: July 26, 2026
+
 Aria may collect:
 
 - Discord User ID

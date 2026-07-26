@@ -1,7 +1,7 @@
 # 1. Information We Collect
 
 Aria collects only the information required to provide music features.
-
+Last Updated: July 26, 2026
 ## Discord Information
 
 Aria may collect:
@@ -31,3 +31,9 @@ Aria may collect limited technical information such as:
 - Bot performance data
 
 This information is used only to maintain, improve, and provide Aria's features.
+
+Owner: Captain
+discord tag: captainnn.js
+telegram: x1337R
+email: suhazaiitana@hotmail.com
+Support Server: https://discord.gg/gEvhPqJPhn

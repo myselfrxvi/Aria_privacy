@@ -34,6 +34,6 @@ This information is used only to maintain, improve, and provide Aria's features.
 
 Owner: Captain
 discord tag: captainnn.js
-telegram: x1337R
+telegram: @x1337R
 email: suhazaiitana@hotmail.com
 Support Server: https://discord.gg/gEvhPqJPhn
